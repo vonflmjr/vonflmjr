@@ -1,7 +1,7 @@
 ---
 title: "Codebook for Coffee Analysis Dataset"
-author: "Your Name Here"
-date: "The Date Here"
+author: "Mjriam von Flüe"
+date: "09.11.2024"
 output:
   html_document:
     keep_md: yes
